@@ -1,2 +1,2 @@
 # Spotify-Clone
-Spotify's clone website using HTML &amp; CSS
+Spotify's UI clone website using HTML &amp; CSS
