@@ -1,6 +1,6 @@
 # Spotify-Clone
 Spotify's UI clone website using HTML &amp; CSS
 
-![preview](./Spotify-1.png)
-![preview](./Spotify-2.png)
+![Spotify Screenshot 1](./spotify-1.jpg)
+![Spotify Screenshot 2](./spotify-2.jpg)
 
